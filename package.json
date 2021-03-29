@@ -1,0 +1,37 @@
+{
+  "name": "easystore",
+  "version": "0.0.1",
+  "description": "Best state management for react based on pure hooks",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx babel code.js -o index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveSuv/easystore.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "react",
+    "state",
+    "redux",
+    "mobx"
+  ],
+  "author": "kavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveSuv/easystore/issues"
+  },
+  "homepage": "https://github.com/SteveSuv/easystore#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.13",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.13.13"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
+  }
+}
