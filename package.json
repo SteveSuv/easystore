@@ -1,6 +1,6 @@
 {
-  "name": "easystore",
-  "version": "0.0.1",
+  "name": "@kavin-zhang/easystore",
+  "version": "0.0.3",
   "description": "Best state management for react based on pure hooks",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
   },
   "keywords": [
     "hooks",
-    "react",
     "react",
     "state",
     "redux",

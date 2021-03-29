@@ -1,0 +1,6 @@
+node_modules/
+.babelrc
+.gitignore
+.npmignore
+code.js
+package-lock.json
